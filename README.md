@@ -3,4 +3,4 @@ P4E
 
 Programming for everyone
 
-Somewhere to put coding assignments various MOOC's  
+Somewhere to put coding assignments from various MOOC's  
