@@ -1,0 +1,38 @@
+Assignments set for the MOOC 'Programming for Everybody' published at Coursea.com
+Target language: Python 2.7
+June 2014
+
+1.0 Write a program that uses a print statement to say 'hello world' as shown below.
+
+2.2 Write a program that uses raw_input to prompt a user for their name and then welcomes them. Note that raw_input will pop a dialog box. 
+	Enter Sarah in the pop-up box when you are prompted so your output will match the desired output below.
+
+2.3 Write a program to prompt the user for hours and rate per hour using raw_input to compute gross pay. 
+	Use 35 hours and a rate of 2.75 per hour to test the program (the pay should be 96.25). 
+	You should use raw_input to read a string and float() to convert the string to a number. 
+	Do not worry about error checking or bad user data.
+	
+3.1 Write a program to prompt the user for hours and rate per hour using raw_input to compute gross pay. 
+	Award time-and-a-half for the hourly rate for all hours worked above 40 hours. 
+	Use 45 hours and a rate of 10.50 per hour to test the program (the pay should be 498.75). 
+	You should use raw_input to read a string and float() to convert the string to a number. 
+	Do not worry about error checking the user input - assume the user types numbers properly.
+
+3.3 Write a program to prompt the user for a score using raw_input. Print out a letter grade based on the following table:
+	Score Grade
+		>= 0.9 A
+		>= 0.8 B
+		>= 0.7 C
+		>= 0.6 D
+		< 0.6 F
+	If the user enters a value out of range, print a suitable error message and exit. For the test, enter a score of 0.85.
+
+4.6 Write a program to prompt the user for hours and rate per hour using raw_input to compute gross pay. 
+	Award time-and-a-half for the hourly rate for all hours worked above 40 hours. 
+	Put the logic to do the computation of time-and-a-half in a function called computepay() and use the function to do the computation. 
+	The function should return a value. Use 45 hours and a rate of 10.50 per hour to test the program (the pay should be 498.75). 
+	You should use raw_input to read a string and float() to convert the string to a number. 
+	Do not worry about error checking the user input unless you want to - you can assume the user types numbers properly.
+
+
+
