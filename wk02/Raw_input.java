@@ -4,7 +4,7 @@ import java.io.*;
 
 public class Raw_input {
 	
-	public static void main(String args[]) throws IOException {
+	public static void main(String[] args) throws IOException {
 		System.out.print("Enter your name: ");
 		InputStreamReader inp = new InputStreamReader(System.in);
 		BufferedReader br = new BufferedReader(inp);

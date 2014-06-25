@@ -4,7 +4,8 @@ June 2014
 
 1.0 Write a program that uses a print statement to say 'hello world' as shown below.
 
-2.2 Write a program that uses raw_input to prompt a user for their name and then welcomes them. Note that raw_input will pop a dialog box. 
+2.2 Write a program that uses raw_input to prompt a user for their name and then welcomes them. 
+	Note that raw_input will pop a dialog box. 
 	Enter Sarah in the pop-up box when you are prompted so your output will match the desired output below.
 
 2.3 Write a program to prompt the user for hours and rate per hour using raw_input to compute gross pay. 

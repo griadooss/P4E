@@ -13,15 +13,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-enum { max_length = 7 };
-static char sHrs[max_length];
-static char sRate[max_length];
-static char sPay[max_length];
-static float fHrs = 0.00;
-static float fRate = 0.00;
-static float fPay = 0.00;
-
-//atof() converts string to float
+enum { MAX = 7 };
+static char sHrs[MAX];
+static char sRate[MAX];
 
 int main( int argc, char ** argv ) {
 // get hrs worked
