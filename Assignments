@@ -34,6 +34,10 @@ June 2014
 	The function should return a value. Use 45 hours and a rate of 10.50 per hour to test the program (the pay should be 498.75). 
 	You should use raw_input to read a string and float() to convert the string to a number. 
 	Do not worry about error checking the user input unless you want to - you can assume the user types numbers properly.
-
+	
+5.2 Write a program that repeatedly prompts a user for integer numbers until the user enters 'done'. 
+	Once 'done' is entered, print out the largest and smallest of the numbers. 
+	If the user enters anything other than a valid number catch it with a try/except and put out an appropriate message and ignore the number. 
+	Enter the numbers from the book for problem 5.1 and Match the desired output as shown.
 
 
